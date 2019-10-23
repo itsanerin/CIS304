@@ -1,4 +1,4 @@
-h1{
+h1 {
   background-color: #ea5169;
   color: black;
   font-family: 'Life Savers', cursive;
@@ -6,4 +6,5 @@ h1{
   letter-spacing: 5px;
   font-size: 55px;
   padding: 20px;
+  width: 100%;
 }
